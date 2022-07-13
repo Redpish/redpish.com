@@ -12,20 +12,6 @@
   justify-content: center;
   animation: change 20s infinite ease-in-out;
 }
-@keyframes change {
-  0% {
-    background-image: url(img/hutao\ kuu.jpg);
-  }
-  20% {
-    background-image: url(img/girl\ with\ weapon.jpg);
-  }
-  40% {
-    background-image: url(img/img1.jpg);
-  }
-  60% {
-    background-image: url(img/img3.jpg);
-  }
-}
 
 #project {
   background-color: #ff9797;
